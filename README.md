@@ -82,7 +82,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Diplom_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(eng).png)
+[<img src="/Diplom_(eng).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(eng).png)
 <br> 
 <br>
 
