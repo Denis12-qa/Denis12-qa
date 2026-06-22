@@ -79,10 +79,7 @@
 ## 🪴 Практика и стажировка
 [<img src="/Certificate Basic Course (eng).png" width="280px" hspace="10px" alt="Практика»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Certificate%20Basic%20Course%20(eng).png) 
 [<img src="/Certificate Basic Course (rus).png" width="280px" hspace="10px" alt="Практика»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Certificate%20Basic%20Course%20(rus).png)
-
-[<img src="/Certificate (rus).jpg" width="280px" hspace="10px" alt="Сертификат_об_прохождении_курса_SQL»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/SQL.jpg)
-[<img src="/Internship (eng).png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/denis-tourclick_workers-en.png)
-[<img src="/Internship (rus).png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/denis-tourclick_workers.png) 
+[<img src="/Certificate (rus).jpg" width="280px" hspace="10px" alt="Сертификат_об_прохождении_курса_SQL»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/SQL.jpg) 
 <br>
 
 ## 🎒 Образование
