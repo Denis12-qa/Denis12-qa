@@ -83,9 +83,7 @@
 
 ## 🎒 Образование
 [<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(eng).png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
-<br> 
 <br>
 
 ## 🤝 Контакт
