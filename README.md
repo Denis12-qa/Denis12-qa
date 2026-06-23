@@ -84,7 +84,7 @@
 
 ## 🎒 Образование
 [<img src="/Certificate Basic Course (eng).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(eng).png)
-[<img src="/Certificate Basic Course (rus).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(rus).png)
+[<img src="/Diplom(rus).png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/Diplom(rus).png)
 
 <br>
 
