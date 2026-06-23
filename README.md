@@ -83,7 +83,7 @@
 [<img src="/denis-tourclick_workers-en.png" width="280px" hspace="10px" alt="Стажировка»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/denis-tourclick_workers-en.png)
 [<img src="/denis-tourclick_workers.png" width="280px" hspace="10px" alt="Стажировка»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/denis-tourclick_workers.png)
 
-[<img src="/Git.jpg" width="280px" hspace="10px" alt="Практика»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/GIT.jpg)
+[<img src="/GIT.jpg" width="280px" hspace="10px" alt="Практика»">](https://raw.githubusercontent.com/Denis12-qa/Denis12-qa/refs/heads/main/GIT.jpg)
 
 <br>
 
